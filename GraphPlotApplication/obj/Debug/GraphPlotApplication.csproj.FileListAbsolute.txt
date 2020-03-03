@@ -1,0 +1,39 @@
+C:\Users\ezaryso\Documents\Visual Studio 2017\Projects\GraphPlotApplication\GraphPlotApplication\bin\Debug\GraphPlotApplication.exe.config
+C:\Users\ezaryso\Documents\Visual Studio 2017\Projects\GraphPlotApplication\GraphPlotApplication\bin\Debug\GraphPlotApplication.exe
+C:\Users\ezaryso\Documents\Visual Studio 2017\Projects\GraphPlotApplication\GraphPlotApplication\bin\Debug\GraphPlotApplication.pdb
+C:\Users\ezaryso\Documents\Visual Studio 2017\Projects\GraphPlotApplication\GraphPlotApplication\obj\Debug\GraphPlotApplication.Form1.resources
+C:\Users\ezaryso\Documents\Visual Studio 2017\Projects\GraphPlotApplication\GraphPlotApplication\obj\Debug\GraphPlotApplication.Properties.Resources.resources
+C:\Users\ezaryso\Documents\Visual Studio 2017\Projects\GraphPlotApplication\GraphPlotApplication\obj\Debug\GraphPlotApplication.csproj.GenerateResource.cache
+C:\Users\ezaryso\Documents\Visual Studio 2017\Projects\GraphPlotApplication\GraphPlotApplication\obj\Debug\GraphPlotApplication.csproj.CoreCompileInputs.cache
+C:\Users\ezaryso\Documents\Visual Studio 2017\Projects\GraphPlotApplication\GraphPlotApplication\obj\Debug\GraphPlotApplication.exe
+C:\Users\ezaryso\Documents\Visual Studio 2017\Projects\GraphPlotApplication\GraphPlotApplication\obj\Debug\GraphPlotApplication.pdb
+C:\Users\ezaryso\Documents\Visual Studio 2017\Projects\GraphPlotApplication\GraphPlotApplication\obj\Debug\GraphPlotApplication.Form2.resources
+C:\Users\soura\Downloads\projects\GraphPlotApplication\GraphPlotApplication\bin\Debug\GraphPlotApplication.exe.config
+C:\Users\soura\Downloads\projects\GraphPlotApplication\GraphPlotApplication\bin\Debug\GraphPlotApplication.exe
+C:\Users\soura\Downloads\projects\GraphPlotApplication\GraphPlotApplication\bin\Debug\GraphPlotApplication.pdb
+C:\Users\soura\Downloads\projects\GraphPlotApplication\GraphPlotApplication\obj\Debug\GraphPlotApplication.SimpleGraphApplication.resources
+C:\Users\soura\Downloads\projects\GraphPlotApplication\GraphPlotApplication\obj\Debug\GraphPlotApplication.Properties.Resources.resources
+C:\Users\soura\Downloads\projects\GraphPlotApplication\GraphPlotApplication\obj\Debug\GraphPlotApplication.csproj.GenerateResource.cache
+C:\Users\soura\Downloads\projects\GraphPlotApplication\GraphPlotApplication\obj\Debug\GraphPlotApplication.csproj.CoreCompileInputs.cache
+C:\Users\soura\Downloads\projects\GraphPlotApplication\GraphPlotApplication\obj\Debug\GraphPlotApplication.exe
+C:\Users\soura\Downloads\projects\GraphPlotApplication\GraphPlotApplication\obj\Debug\GraphPlotApplication.pdb
+C:\Users\soura\Downloads\New folder\GraphPlotApplication\bin\Debug\GraphPlotApplication.exe.config
+C:\Users\soura\Downloads\New folder\GraphPlotApplication\bin\Debug\GraphPlotApplication.exe
+C:\Users\soura\Downloads\New folder\GraphPlotApplication\bin\Debug\GraphPlotApplication.pdb
+C:\Users\soura\Downloads\New folder\GraphPlotApplication\obj\Debug\GraphPlotApplication.csprojAssemblyReference.cache
+C:\Users\soura\Downloads\New folder\GraphPlotApplication\obj\Debug\GraphPlotApplication.SimpleGraphApplication.resources
+C:\Users\soura\Downloads\New folder\GraphPlotApplication\obj\Debug\GraphPlotApplication.Properties.Resources.resources
+C:\Users\soura\Downloads\New folder\GraphPlotApplication\obj\Debug\GraphPlotApplication.csproj.GenerateResource.cache
+C:\Users\soura\Downloads\New folder\GraphPlotApplication\obj\Debug\GraphPlotApplication.csproj.CoreCompileInputs.cache
+C:\Users\soura\Downloads\New folder\GraphPlotApplication\obj\Debug\GraphPlotApplication.exe
+C:\Users\soura\Downloads\New folder\GraphPlotApplication\obj\Debug\GraphPlotApplication.pdb
+C:\Users\soura\Documents\Github\CSharp-Projects\GraphPlotApplication\bin\Debug\GraphPlotApplication.exe.config
+C:\Users\soura\Documents\Github\CSharp-Projects\GraphPlotApplication\bin\Debug\GraphPlotApplication.exe
+C:\Users\soura\Documents\Github\CSharp-Projects\GraphPlotApplication\bin\Debug\GraphPlotApplication.pdb
+C:\Users\soura\Documents\Github\CSharp-Projects\GraphPlotApplication\obj\Debug\GraphPlotApplication.csprojAssemblyReference.cache
+C:\Users\soura\Documents\Github\CSharp-Projects\GraphPlotApplication\obj\Debug\GraphPlotApplication.SimpleGraphApplication.resources
+C:\Users\soura\Documents\Github\CSharp-Projects\GraphPlotApplication\obj\Debug\GraphPlotApplication.Properties.Resources.resources
+C:\Users\soura\Documents\Github\CSharp-Projects\GraphPlotApplication\obj\Debug\GraphPlotApplication.csproj.GenerateResource.cache
+C:\Users\soura\Documents\Github\CSharp-Projects\GraphPlotApplication\obj\Debug\GraphPlotApplication.csproj.CoreCompileInputs.cache
+C:\Users\soura\Documents\Github\CSharp-Projects\GraphPlotApplication\obj\Debug\GraphPlotApplication.exe
+C:\Users\soura\Documents\Github\CSharp-Projects\GraphPlotApplication\obj\Debug\GraphPlotApplication.pdb
